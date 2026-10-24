@@ -1,0 +1,1 @@
+python send_email.py --method gmail --to-file clients.txt --send
